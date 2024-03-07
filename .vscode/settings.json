@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\Database\\dbhomeXE\\jdbc\\lib\\ojdbc11dms.jar"
+    ]
+}
